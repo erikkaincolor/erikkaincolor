@@ -18,4 +18,4 @@ I am an artist, museum-frequenter, member at *Museum of Fine Arts, Houston* and 
     - [Nicole Deschamps-Benke](https://www.nicoledeschampsbenke.com/), Digitally Handmade for Artists and Designers
     - [Abigail Gray](https://www.linkedin.com/in/abbey-gray-9877538b/), Media Law 
   
-![](https://komarev.com/ghpvc/?username=erikkaincolor&color=pink)
+![](https://komarev.com/ghpvc/?username=erikkaincolor&color=orange)
