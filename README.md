@@ -2,7 +2,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@erikkaincolor-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/erikkaincolor)](https://twitter.com/erikkaincolor) [![Linkedin Badge](https://img.shields.io/badge/-erikkapolk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erikkapolk/)](https://www.linkedin.com/in/erikkapolk/) 
 [![Gmail Badge](https://img.shields.io/badge/-erikkaincolor+github@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erikkaincolor+github@gmail.com)](mailto:erikkaincolor+github@gmail.com)
 
-Here are some ideas to get you started:
+I am an artist, museum-frequenter, member at *Museum of Fine Arts, Houston* and MFAH's 5A (African American Art Advisory Association) chapter. I have my B.S. in Digital Media Innovation, minor in Industrial Design and I'm a Software Engineer interested in learning more about system architecture, product management, and the backend.
 
 - 🔭 I’m currently working on a physical remake of the Hasbro-manufactured [Operation game](https://instructions.hasbro.com/en-us/instruction/Operation-The-Game "What is the Operation game?") with a digital component. 
 - 🌱 I’m currently learning about Intellectual Property, Patents, and Trademarks
