@@ -15,7 +15,7 @@ I am an artist, museum-frequenter, member at *Museum of Fine Arts, Houston* and 
 - 📚:love_letter: Women professors whose mentorship and sponsorship inspire me til' this day:
     - [Alexandra Whittington](https://www.linkedin.com/in/alexandra-whittington-futurist/), Impact of Modern Technology on Society
     - [Dr. Laurie H. Fluker, Ph.D.](https://sjmcnews.wordpress.com/2013/07/24/dr-laurie-fluker-changing-lives-one-student-at-a-time/) Intro to Mass Comm.
-    - [Cindy Royal](https://www.linkedin.com/in/cindyroyal/), Advocate for B.S. in Digital Media Innovation at TXST, Sponsor
+    - [Cindy Royal]([https://www.linkedin.com/in/cindyroyal/](https://mediashift.org/2016/12/developing-new-major-digital-media-innovation/)), Co-creator of the B.S. in Digital Media Innovation at TXST, Sponsor
     - [Thamar Solario](https://www.linkedin.com/in/thamar-solorio/), Computer Science and Programming
     - [Danielle Aldea Hodgins](https://www.linkedin.com/in/daniellealdea/), Fundamentals of Digital Tools
     - [Nicole Deschamps-Benke](https://www.nicoledeschampsbenke.com/), Digitally Handmade for Artists and Designers
