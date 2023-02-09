@@ -28,3 +28,38 @@ I am an artist, museum-frequenter, member at *Museum of Fine Arts, Houston* and 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='43'/> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40"/> </a>
 
 
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="<a href="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon" target="_blank"> <img src="<a href="" alt="illustrator" width="40"/> </a>
+
+<a href="https://www.postgresql.org/" target="_blank"> <img src="<a href="https://www.vectorlogo.zone/logos/postgresql/postgresql" target="_blank"> <img src="<a href="" alt="postgresql" width="40"/> </a>
+
+<img src = 'https://www.vectorlogo.zone/logos/python/python-icon' width="40"/>
+
+<a href="https://airtable.com/" target="_blank"> <img src="<a href="https://www.vectorlogo.zone/logos/airtable/airtable" target="_blank"> <img src="<a href="" alt="airtable" width="40"/> </a>
+
+<img src = 'https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21' width="40"/>
+
+<img src = 'https://www.vectorlogo.zone/logos/arduino/arduino-ar21' width="40"/>
+
+<img src = 'https://www.vectorlogo.zone/logos/arduino/arduino-ar21' width="40"/>
+
+<img src = 'https://www.vectorlogo.zone/logos/dropbox/dropbox-icon' width="40"/>
+
+<a href="https://www.figma.com/blog/figmas-engineering-values/" target="_blank"> <img src="<a href="https://www.vectorlogo.zone/logos/figma/figma" target="_blank"></a>
+
+<img src = 'https://www.vectorlogo.zone/logos/git-scm/git-scm-icon' width="40"/>
+
+<img src = 'https://www.vectorlogo.zone/logos/pocoo_jinja/pocoo_jinja’ width="40"/>
+
+<img src = 'https://www.vectorlogo.zone/logos/json/json-ar21’ width="40"/>
+
+<a href="https://www.kaggle.com/" target="_blank"> <img src="<a href="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21" target="_blank"> <img src="<a href="" alt="kaggle" width="40"/> </a>
+
+<a href="https://opencollective.com/search?tag=arts%20and%20culture" target="_blank"> <img src="<a href="https://www.vectorlogo.zone/logos/opencollective/opencollective-ar21
+
+<a href="https://www.nginx.com/" target="_blank"> <img src="<a href="https://www.vectorlogo.zone/logos/nginx/nginx-ar21" target="_blank"> <img src="<a href="" alt="nginx" width="40"/> </a>
+
+
+
+
+
+
