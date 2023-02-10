@@ -4,13 +4,17 @@
 
 I have my B.S. in Digital Media Innovation, minor in Industrial Design and I'm a developer interested in learning more about system architecture, product management, and the middle-tier API's and the backend.
 
+## Tech Stack
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' width="40"/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='40'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='43'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='40'/>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='43'/> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erikkaincolor&show_icons=true&locale=en&layout=compact" alt="erikkaincolor" /></p>
 
-- 🔭 I’m currently working on a physical remake of the Hasbro-manufactured [Operation game](https://instructions.hasbro.com/en-us/instruction/Operation-The-Game "What is the Operation game?") with a digital component. 
-- 🌱 I’m currently learning about Intellectual Property, Patents, and Trademarks
-- 🤝🏾 I’m looking to collaborate in an open source hackathon
-- 🤔 I’m looking for help with finding community in API development, product management, product development spaces and technical writing.
-- 📝 I regularly write articles on my latest projects [here](https://www.behance.net/erikkapolk).
+- 🔭 Working on a physical remake of the Hasbro-manufactured [Operation game](https://instructions.hasbro.com/en-us/instruction/Operation-The-Game "What is the Operation game?") with a digital component. 
+- 🌱 Learning about Intellectual Property, Patents, and Trademarks
+- 🤝🏾 Looking to collaborate in an open source hackathon
+- 🤔 Looking for help with finding community in API development, product management, product development spaces and technical writing.
+- 📝 Write-ups on my latest projects [here](https://www.behance.net/erikkapolk).
 - 💬 Ask me about [`lasercutting and engraving`](https://www.instagram.com/p/CNDeoAflBGA/), [`3d printing`](https://www.instagram.com/p/CgxS58-lc4A/), and why everyone needs to take my former prof's. *Impact of Modern Tech on Society* ethics course
 - 🍬 Fun fact: Not big on sweets, yet I use more honey and cinnamon when prepping savory dishes than the average person.
 - 📚:love_letter: Women in the industry whose mentorship and sponsorship inspire me til' this day:
@@ -22,8 +26,4 @@ I have my B.S. in Digital Media Innovation, minor in Industrial Design and I'm a
     - [Nicole Deschamps-Benke](https://www.nicoledeschampsbenke.com/), Digitally Handmade for Artists and Designers
     - [Abigail Gray](https://www.linkedin.com/in/abbey-gray-9877538b/), Media Law 
   
-![](https://komarev.com/ghpvc/?username=erikkaincolor&color=orange)
-
-## Tech Stack
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' width="40"/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='40'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='43'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='40'/>
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='43'/> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40"/> </a> 
+![](https://komarev.com/ghpvc/?username=erikkaincolor&color=orange
