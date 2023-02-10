@@ -1,6 +1,6 @@
 <img src="github-banner.png" width="100%">
-[![Twitter Badge](https://img.shields.io/badge/-@erikkaincolor-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/erikkaincolor)](https://twitter.com/erikkaincolor) [![Linkedin Badge](https://img.shields.io/badge/-erikkapolk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erikkapolk/)](https://www.linkedin.com/in/erikkapolk/) 
-[![Gmail Badge](https://img.shields.io/badge/-erikkaincolor+github@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erikkaincolor+github@gmail.com)](mailto:erikkaincolor+github@gmail.com)
+[!][Twitter Badge](https://img.shields.io/badge/-@erikkaincolor-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/erikkaincolor)](https://twitter.com/erikkaincolor) [!][Linkedin Badge](https://img.shields.io/badge/-erikkapolk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erikkapolk/)](https://www.linkedin.com/in/erikkapolk/) 
+[!][Gmail Badge](https://img.shields.io/badge/-erikkaincolor+github@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erikkaincolor+github@gmail.com)](mailto:erikkaincolor+github@gmail.com)
 
 I have my B.S. in Digital Media Innovation, minor in Industrial Design and I'm a developer interested in learning more about system architecture, product management, and the middle-tier API's and the backend.
 
@@ -26,4 +26,4 @@ I have my B.S. in Digital Media Innovation, minor in Industrial Design and I'm a
     - [Nicole Deschamps-Benke](https://www.nicoledeschampsbenke.com/), Digitally Handmade for Artists and Designers
     - [Abigail Gray](https://www.linkedin.com/in/abbey-gray-9877538b/), Media Law 
   
-![](https://komarev.com/ghpvc/?username=erikkaincolor&color=orange
+[!](https://komarev.com/ghpvc/?username=erikkaincolor&color=orange)
