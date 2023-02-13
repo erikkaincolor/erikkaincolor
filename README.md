@@ -20,7 +20,7 @@ I have my B.S. in Digital Media Innovation, minor in Industrial Design and I'm a
 - 📝 Write-ups on my latest projects [here](https://www.behance.net/erikkapolk).
 - 💬 Ask me about [`lasercutting and engraving`](https://www.instagram.com/p/CNDeoAflBGA/), [`3d printing`](https://www.instagram.com/p/CgxS58-lc4A/), and why everyone needs to take my former prof's. *Impact of Modern Tech on Society* ethics course
 - 🍬 Fun fact: Not big on sweets, yet I use more honey and cinnamon when prepping savory dishes than the average person.
-- 📚:love_letter: Women in the industry whose mentorship and sponsorship inspire me til' this day:
+- 📚:love_letter: Women in the industry whose mentorship, selfless sponsorship and teachings fuel me til' this day:
     - [Alexandra Whittington](https://www.linkedin.com/in/alexandra-whittington-futurist/), Impact of Modern Technology on Society
     - [Dr. Laurie H. Fluker, Ph.D.](https://sjmcnews.wordpress.com/2013/07/24/dr-laurie-fluker-changing-lives-one-student-at-a-time/) Intro to Mass Comm.
     - [Cindy Royal](https://mediashift.org/2016/12/developing-new-major-digital-media-innovation/), Co-creator of the B.S. in Digital Media Innovation at TXST, Sponsor
