@@ -5,7 +5,7 @@
 
 Howdy 🤠, I’m the ‘cool’ aunt to 10 kids, a friend to many, an artist, I’m pretty tenacious and I’ve always had an interest in the latest user-centric tech. 
 
-I have my B.S. in Digital Media Innovation, minor in Industrial Design and I'm a developer interested in learning more about system architecture, product management, and the middle-tier API's and the backend. 2-min demo of my latest greatest [here](https://www.youtube.com/watch?v=DQJ86Dg0IM8).
+I have my B.S. in Digital Media Innovation, minor in Industrial Design and I'm a developer interested in learning more about system architecture, product management, middle-tier API's and the backend. 2-min demo of my latest greatest [here](https://www.youtube.com/watch?v=DQJ86Dg0IM8).
 
 ## Tech Stack
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' width="40"/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='40'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='43'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='40'/>
