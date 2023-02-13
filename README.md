@@ -24,7 +24,7 @@ I have my B.S. in Digital Media Innovation, minor in Industrial Design and I'm a
     - [Alexandra Whittington](https://www.linkedin.com/in/alexandra-whittington-futurist/), Impact of Modern Technology on Society
     - [Dr. Laurie H. Fluker, Ph.D.](https://sjmcnews.wordpress.com/2013/07/24/dr-laurie-fluker-changing-lives-one-student-at-a-time/) Intro to Mass Comm.
     - [Cindy Royal](https://mediashift.org/2016/12/developing-new-major-digital-media-innovation/), Co-creator of the B.S. in Digital Media Innovation at TXST, Sponsor
-    - [Thamar Solario](https://www.linkedin.com/in/thamar-solorio/), Computer Science and Programming
+   <!-- - [Thamar Solario](https://www.linkedin.com/in/thamar-solorio/), Computer Science and Programming -->
     - [Danielle Aldea Hodgins](https://www.linkedin.com/in/daniellealdea/), Fundamentals of Digital Tools
     - [Nicole Deschamps-Benke](https://www.nicoledeschampsbenke.com/), Digitally Handmade for Artists and Designers
     - [Abigail Gray](https://www.linkedin.com/in/abbey-gray-9877538b/), Media Law 
