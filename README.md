@@ -1,6 +1,6 @@
 <img src="github-banner.png" width="100%">
 
-[![Twitter Badge](https://img.shields.io/badge/-@erikkaincolor-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/erikkaincolor)](https://twitter.com/erikkaincolor) [![Linkedin Badge](https://img.shields.io/badge/-erikkapolk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erikkapolk/)](https://www.linkedin.com/in/erikkapolk/) 
+[![Linkedin Badge](https://img.shields.io/badge/-erikkapolk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erikkapolk/)](https://www.linkedin.com/in/erikkapolk/) 
 [![Gmail Badge](https://img.shields.io/badge/-erikkaincolor+github@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erikkaincolor+github@gmail.com)](mailto:erikkaincolor+github@gmail.com)
 
 Howdy 🤠, I’m the ‘cool’ aunt to 10 kids, a friend to many, an artist, I’m pretty tenacious and I’ve always had an interest in the latest user-centric tech. 
