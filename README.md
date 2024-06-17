@@ -15,7 +15,7 @@ I have my B.S. in Digital Media Innovation, minor in Industrial Design and I'm a
 
 - 🔭 Working on a physical remake of the Hasbro-manufactured [Operation game](https://instructions.hasbro.com/en-us/instruction/Operation-The-Game "What is the Operation game?") with a digital component. 
 - 🌱 Learning about Intellectual Property, Patents, and Trademarks
-- 🤝🏾 Looking to collaborate in an open source hackathon
+- 🤝 Looking to collaborate in an open source hackathon
 - 🤔 Looking for help with finding community in API development, product management, product development spaces and technical writing.
 - 📝 Write-ups on my latest projects [here](https://www.behance.net/erikkapolk).
 - 💬 Ask me about [`lasercutting and engraving`](https://www.instagram.com/p/CNDeoAflBGA/), [`3d printing`](https://www.instagram.com/p/CgxS58-lc4A/), and why everyone needs to take my former prof's. *Impact of Modern Tech on Society* ethics course
