@@ -3,9 +3,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-erikkapolk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erikkapolk/)](https://www.linkedin.com/in/erikkapolk/) 
 [![Gmail Badge](https://img.shields.io/badge/-erikkaincolor+github@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erikkaincolor+github@gmail.com)](mailto:erikkaincolor+github@gmail.com)
 
-Howdy 🤠, I’m the ‘cool’ aunt to 10 kids, a friend to many, an artist, I’m pretty tenacious and I’ve always had an interest in the latest user-centric tech. 
+Howdy 🤠
 
-I have my B.S. in Digital Media Innovation, minor in Industrial Design and I'm a developer interested in learning more about system architecture, product management, middle-tier API's and the backend. 2-min demo of my latest greatest fullstack web app [here](https://www.youtube.com/watch?v=DQJ86Dg0IM8).
+I have my B.S. in Digital Media Innovation, minor in Industrial Design and I'm a developer.
 
 ## Tech Stack
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' width="40"/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='40'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='43'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='40'/>
@@ -13,13 +13,9 @@ I have my B.S. in Digital Media Innovation, minor in Industrial Design and I'm a
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erikkaincolor&show_icons=true&locale=en&layout=compact" alt="erikkaincolor" /></p>
 
-- 🔭 Working on a physical remake of the Hasbro-manufactured [Operation game](https://instructions.hasbro.com/en-us/instruction/Operation-The-Game "What is the Operation game?") with a digital component. 
 - 🌱 Learning about Intellectual Property, Patents, and Trademarks
-- 🤝 Looking to collaborate in an open source hackathon
-- 🤔 Looking for help with finding community in API development, product management, product development spaces and technical writing.
 - 📝 Write-ups on my latest projects [here](https://www.behance.net/erikkapolk).
-- 💬 Ask me about [`lasercutting and engraving`](https://www.instagram.com/p/CNDeoAflBGA/), [`3d printing`](https://www.instagram.com/p/CgxS58-lc4A/), and why everyone needs to take my former prof's. *Impact of Modern Tech on Society* ethics course
-- 🍬 Fun fact: Not big on sweets, yet I use more honey and cinnamon when prepping savory dishes than the average person.
+- 💬 Ask me why everyone needs to take my former prof's. *Impact of Modern Tech on Society* ethics course
 - 📚:love_letter: Women in the industry whose mentorship, selfless sponsorship and teachings fuel me til' this day:
     - [Alexandra Whittington](https://www.linkedin.com/in/alexandra-whittington-futurist/), Impact of Modern Technology on Society
     - [Dr. Laurie H. Fluker, Ph.D.](https://sjmcnews.wordpress.com/2013/07/24/dr-laurie-fluker-changing-lives-one-student-at-a-time/) Intro to Mass Comm.
