@@ -4,8 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-erikkaincolor+github@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erikkaincolor+github@gmail.com)](mailto:erikkaincolor+github@gmail.com)
 
 Howdy 🤠
-
-I have my B.S. in Digital Media Innovation, minor in Industrial Design and I'm a developer.
+I have my B.S. in Digital Media Innovation, minor in Industrial Design and I'm a developer. I also sew, lasercut, and mentor folks about the physical product design process.
 
 ## Tech Stack
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' width="40"/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='40'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='43'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='40'/>
@@ -13,10 +12,9 @@ I have my B.S. in Digital Media Innovation, minor in Industrial Design and I'm a
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erikkaincolor&show_icons=true&locale=en&layout=compact" alt="erikkaincolor" /></p>
 
-- 🌱 Learning about Intellectual Property, Patents, and Trademarks
 - 📝 Write-ups on my latest projects [here](https://www.behance.net/erikkapolk).
 - 💬 Ask me why everyone needs to take my former prof's. *Impact of Modern Tech on Society* ethics course
-- 📚:love_letter: Women in the industry whose mentorship, selfless sponsorship and teachings fuel me til' this day:
+- 📚: Women in the industry whose mentorship, selfless sponsorship and teachings fuel me til' this day:
     - [Alexandra Whittington](https://www.linkedin.com/in/alexandra-whittington-futurist/), Impact of Modern Technology on Society
     - [Dr. Laurie H. Fluker, Ph.D.](https://sjmcnews.wordpress.com/2013/07/24/dr-laurie-fluker-changing-lives-one-student-at-a-time/) Intro to Mass Comm.
     - [Cindy Royal](https://mediashift.org/2016/12/developing-new-major-digital-media-innovation/), Co-creator of the B.S. in Digital Media Innovation at TXST, Sponsor
