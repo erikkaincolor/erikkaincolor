@@ -16,7 +16,6 @@ I have my B.S. in Digital Media Innovation, minor in Industrial Design and I'm a
 - 💬 Ask me why everyone needs to take my former prof's. *Impact of Modern Tech on Society* ethics course
 - 📚: Women in the industry whose mentorship, selfless sponsorship and teachings fuel me til' this day:
     - [Alexandra Whittington](https://www.linkedin.com/in/alexandra-whittington-futurist/), Impact of Modern Technology on Society
-    - [Dr. Laurie H. Fluker, Ph.D.](https://sjmcnews.wordpress.com/2013/07/24/dr-laurie-fluker-changing-lives-one-student-at-a-time/) Intro to Mass Comm.
     - [Cindy Royal](https://mediashift.org/2016/12/developing-new-major-digital-media-innovation/), Co-creator of the B.S. in Digital Media Innovation at TXST, Sponsor
    <!-- - [Thamar Solario](https://www.linkedin.com/in/thamar-solorio/), Computer Science and Programming -->
     - [Danielle Aldea Hodgins](https://www.linkedin.com/in/daniellealdea/), Fundamentals of Digital Tools
